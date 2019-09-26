@@ -1,0 +1,14 @@
+﻿'Timber.exe' (Win32): Loaded 'C:\Users\Balazs\Documents\GitHub\Timber\x64\Debug\Timber.exe'. Symbols loaded.
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x47c8 has exited with code 0 (0x0).
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Timber.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x3e80 has exited with code 0 (0x0).
+The thread 0x4ba4 has exited with code 0 (0x0).
+The program '[12884] Timber.exe' has exited with code 0 (0x0).
